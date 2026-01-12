@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "With you",
+  "base_artist": "アルストロメリア",
+  "createdAt": "2026-01-12T11:38:24.928789Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Somewhere Cool With You",
+      "artist": "Adam Doleac",
+      "has_synced": true,
+      "path": "select/01_Somewhere_Cool_With_You_Adam_Doleac.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Always Something With You",
+      "artist": "Mitchell Tenpenny",
+      "has_synced": true,
+      "path": "select/02_Always_Something_With_You_Mitchell_Tenpenny.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Anywhere With You",
+      "artist": "Jake Owen",
+      "has_synced": true,
+      "path": "select/03_Anywhere_With_You_Jake_Owen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Born To Be With You",
+      "artist": "Sonny James",
+      "has_synced": false,
+      "path": "select/04_Born_To_Be_With_You_Sonny_James.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dreaming My Dreams With You",
+      "artist": "Waylon Jennings",
+      "has_synced": true,
+      "path": "select/05_Dreaming_My_Dreams_With_You_Waylon_Jennings.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "End Up With You",
+      "artist": "Carrie Underwood",
+      "has_synced": true,
+      "path": "select/06_End_Up_With_You_Carrie_Underwood.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Just Want To Dance With You",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/07_I_Just_Want_To_Dance_With_You_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Just Want To Dance With You (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/08_I_Just_Want_To_Dance_With_You_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Walked With You A Ways",
+      "artist": "Plains feat. Waxahatchee & Jess Williamson",
+      "has_synced": true,
+      "path": "select/09_I_Walked_With_You_A_Ways_Plains_feat._Waxahatchee_&_Jess_Williamson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Walked With You A Ways",
+      "artist": "Plains",
+      "has_synced": true,
+      "path": "select/10_I_Walked_With_You_A_Ways_Plains.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Want to Go With You (Remix Version)",
+      "artist": "Eddy Arnold",
+      "has_synced": true,
+      "path": "select/11_I_Want_to_Go_With_You_(Remix_Version)_Eddy_Arnold.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'd Rather Ride Around With You",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/12_I'd_Rather_Ride_Around_With_You_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'd Rather Ride Around With You (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/13_I'd_Rather_Ride_Around_With_You_(Album_Version)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'm Still Dancin' With You",
+      "artist": "Wade Hayes",
+      "has_synced": true,
+      "path": "select/14_I'm_Still_Dancin'_With_You_Wade_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'm Still Dancin' With You (Album Version)",
+      "artist": "Wade Hayes",
+      "has_synced": true,
+      "path": "select/15_I'm_Still_Dancin'_With_You_(Album_Version)_Wade_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "In A Room With You",
+      "artist": "Abbey Cone",
+      "has_synced": true,
+      "path": "select/16_In_A_Room_With_You_Abbey_Cone.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "With you",
+      "artist": "アルストロメリア",
+      "has_synced": false,
+      "path": "select/pl_01_With_you_アルストロメリア.txt"
+    }
+  ]
+}
