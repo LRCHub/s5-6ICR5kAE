@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "With you",
   "base_artist": "アルストロメリア",
-  "createdAt": "2026-01-12T11:38:24.928789Z",
+  "createdAt": "2026-03-03T02:04:30.635630Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,150 @@
       "artist": "Abbey Cone",
       "has_synced": true,
       "path": "select/16_In_A_Room_With_You_Abbey_Cone.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "10,000 Hours (with Justin Bieber)",
+      "artist": "Dan + Shay feat. Justin Bieber",
+      "has_synced": true,
+      "path": "select/17_10,000_Hours_(with_Justin_Bieber)_Dan_+_Shay_feat._Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Horse With No Name",
+      "artist": "America",
+      "has_synced": true,
+      "path": "select/18_Horse_With_No_Name_America.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Good With Goodbye",
+      "artist": "John Morgan",
+      "has_synced": true,
+      "path": "select/19_Good_With_Goodbye_John_Morgan.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Memory I Don't Mess With",
+      "artist": "Lee Brice",
+      "has_synced": true,
+      "path": "select/20_Memory_I_Don't_Mess_With_Lee_Brice.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Running Up That Hill (A Deal With God)",
+      "artist": "Kate Bush",
+      "has_synced": true,
+      "path": "select/21_Running_Up_That_Hill_(A_Deal_With_God)_Kate_Bush.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "STAY (with Justin Bieber)",
+      "artist": "The Kid LAROI feat. Justin Bieber",
+      "has_synced": true,
+      "path": "select/22_STAY_(with_Justin_Bieber)_The_Kid_LAROI_feat._Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Save Your Tears (with Ariana Grande) (Remix)",
+      "artist": "The Weeknd feat. Ariana Grande",
+      "has_synced": true,
+      "path": "select/23_Save_Your_Tears_(with_Ariana_Grande)_(Remix)_The_Weeknd_feat._Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Something To Do With My Hands",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/24_Something_To_Do_With_My_Hands_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "There Ain't Nothin' Wrong with the Radio",
+      "artist": "Aaron Tippin",
+      "has_synced": true,
+      "path": "select/25_There_Ain't_Nothin'_Wrong_with_the_Radio_Aaron_Tippin.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Trouble With A Heartbreak",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/26_Trouble_With_A_Heartbreak_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Trouble With A Heartbreak",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/27_Trouble_With_A_Heartbreak_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Wishful Drinking (with Sam Hunt)",
+      "artist": "Ingrid Andress feat. Sam Hunt",
+      "has_synced": true,
+      "path": "select/28_Wishful_Drinking_(with_Sam_Hunt)_Ingrid_Andress_feat._Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "With A Woman You Love",
+      "artist": "Justin Moore",
+      "has_synced": true,
+      "path": "select/29_With_A_Woman_You_Love_Justin_Moore.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Here With Me",
+      "artist": "Marshmello feat. CHVRCHES",
+      "has_synced": true,
+      "path": "select/30_Here_With_Me_Marshmello_feat._CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Here With Me",
+      "artist": "Marshmello, CHVRCHES",
+      "has_synced": true,
+      "path": "select/31_Here_With_Me_Marshmello,_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Bad Wine and Lemon Cake (with The Jane Austen Argument)",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/32_Bad_Wine_and_Lemon_Cake_(with_The_Jane_Austen_Argument)_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Do It With a Rockstar",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/33_Do_It_With_a_Rockstar_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Do It with a Rockstar",
+      "artist": "Amanda Palmer & The Grand Theft Orchestra",
+      "has_synced": true,
+      "path": "select/34_Do_It_with_a_Rockstar_Amanda_Palmer_&_The_Grand_Theft_Orchestra.lrc"
     },
     {
       "id": "petitlyrics_1",
